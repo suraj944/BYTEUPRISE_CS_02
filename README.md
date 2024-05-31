@@ -1,7 +1,7 @@
 # Keylogger-Software
 This is a simple yet effective keylogger software written in Python using the pynput library. The software captures key presses from the keyboard and logs them into a file named "Keylog.txt" for monitoring or analysis purposes.
 
-Key Features:
+<b>Key Features:<b>
 
 Records keystrokes from the keyboard.
 Supports both regular character keys and special keys.
@@ -12,5 +12,5 @@ Easy to use and integrate into other projects.
 
 Run the script.
 The software will start capturing key presses in real-time. <br /> 
-Press 'Ctrl + C' or close the program to stop logging. \n  <br />
+Press 'Ctrl + C' or close the program to stop logging.  <br />
 Check the "Keylog.txt" file for the recorded keystrokes. <br />
