@@ -14,3 +14,8 @@ Run the script.
 The software will start capturing key presses in real-time. <br /> 
 Press 'Ctrl + C' or close the program to stop logging.  <br />
 Check the "Keylog.txt" file for the recorded keystrokes. <br />
+
+🔗 Dependencies:
+
+Python 3.x <br/>
+pynput library<br/>
