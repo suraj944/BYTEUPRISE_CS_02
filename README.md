@@ -11,6 +11,6 @@ Easy to use and integrate into other projects.
 🔧 Usage Instructions:
 
 Run the script.
-The software will start capturing key presses in real-time.
-Press 'Ctrl + C' or close the program to stop logging.
-Check the "Keylog.txt" file for the recorded keystrokes.
+The software will start capturing key presses in real-time. \n
+Press 'Ctrl + C' or close the program to stop logging. \n
+Check the "Keylog.txt" file for the recorded keystrokes. \n
