@@ -1,21 +1,44 @@
 # Keylogger-Software 📝
-This is a simple yet effective keylogger software written in Python using the pynput library. The software captures key presses from the keyboard and logs them into a file named "Keylog.txt" for monitoring or analysis purposes.
 
-<b>Key Features:</b>
+This is a simple yet effective keylogger software written in Python using the `pynput` library. The software captures key presses from the keyboard and logs them into a file named `Keylog.txt` for monitoring or analysis purposes.
 
-Records keystrokes from the keyboard.
-Supports both regular character keys and special keys.
-Logs key presses into a text file for record-keeping.
-Easy to use and integrate into other projects.
+## Key Features
 
-🔧 Usage Instructions:
+- Records keystrokes from the keyboard.
+- Supports both regular character keys and special keys.
+- Logs key presses into a text file for record-keeping.
+- Easy to use and integrate into other projects.
 
-Run the script.
-The software will start capturing key presses in real-time. <br /> 
-Press 'Ctrl + C' or close the program to stop logging.  <br />
-Check the "Keylog.txt" file for the recorded keystrokes. <br />
+## Usage Instructions
 
-🔗 Dependencies:
+1. **Run the script.**
 
-Python 3.x <br/>
-pynput library<br/>
+2. The software will start capturing key presses in real-time.
+
+3. Press `Ctrl + C` or close the program to stop logging.
+
+4. Check the `Keylog.txt` file for the recorded keystrokes.
+
+## Dependencies
+
+- Python 3.x
+- `pynput` library
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/keylogger-software.git
+    cd keylogger-software
+    ```
+
+2. Install the required library:
+    ```bash
+    pip install pynput
+    ```
+
+## Example
+
+To start the keylogger, run the following command:
+```bash
+python keylogger.py
